@@ -45,3 +45,16 @@ rm -rf %{buildroot}
 %{_bindir}/odvr
 %{_bindir}/odvr-gui
 %_sysconfdir/udev/rules.d/41-odvr.rules
+
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 0.1.5-2mdv2011.0
++ Revision: 613169
+- the mass rebuild of 2010.1 packages
+
+* Fri Nov 27 2009 Jerome Martin <jmartin@mandriva.org> 0.1.5-1mdv2010.1
++ Revision: 470631
+- Fixed BuildRequires
+- Initial package
+- create odvr
+
