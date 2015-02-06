@@ -1,6 +1,6 @@
 %define name odvr
 %define version 0.1.5
-%define release %mkrel 2
+%define release 3
 
 Summary: User-space driver for USB-enabled Olympus DVRs
 Name: %{name}
