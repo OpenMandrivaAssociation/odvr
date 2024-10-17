@@ -9,7 +9,7 @@ Release: %{release}
 Source0: %{name}-%{version}.tar.bz2
 License: GPLv3
 Group: System/Kernel and hardware
-Url: http://code.google.com/p/odvr/
+Url: https://code.google.com/p/odvr/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: gtk+2-devel
 BuildRequires: usb1.0-devel
